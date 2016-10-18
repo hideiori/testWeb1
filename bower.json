@@ -1,0 +1,18 @@
+{
+  "name": "testweb1",
+  "description": "test web project 1",
+  "main": "dist/testweb1.js",
+  "authors": [
+    "hideiori"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/hideiori/testWeb1",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
