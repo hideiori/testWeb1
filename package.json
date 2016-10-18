@@ -1,0 +1,19 @@
+{
+  "name": "testweb1",
+  "version": "1.0.0",
+  "description": "test web project 1",
+  "main": "dist/testweb1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hideiori/testWeb1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hideiori/testWeb1/issues"
+  },
+  "homepage": "https://github.com/hideiori/testWeb1#readme"
+}
